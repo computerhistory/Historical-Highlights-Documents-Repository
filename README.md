@@ -1,5 +1,3 @@
-README for documents repository 
- 
 Important Software History Documents: A Sampling 
  
 Explore a selection of important software history documents, from the collection of the Computer History Museum. For more about software history, and how it connects to our present and future visit https://computerhistory.org/ 
